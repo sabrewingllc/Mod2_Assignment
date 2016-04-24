@@ -1,0 +1,47 @@
+body {
+	color: black;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: 200;
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+}
+div {
+	border-width: 5;
+
+	text-align: right;
+
+}
+div div{
+
+}
+.itemBox {
+background-color: gray;
+padding: 15px;
+border: 5px solid ;
+margin: 40px;
+}
+.menuItem {
+	font-size: 24px;
+	text-align: right;
+	color: black;
+	border: 5px solid ;
+	background-color: pink;
+}
+.menuDescription {
+	font-size: 16px;
+	color: black;
+	text-align: left;
+}
+#chicken{
+	background-color: pink;
+}
+#beef{
+	background-color: red;
+	color: white;
+	border-color: black;
+}
+#sushi{
+	background-color: yellow;
+}
