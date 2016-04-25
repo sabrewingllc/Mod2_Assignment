@@ -50,17 +50,17 @@ h1 {
 
 #chicken{
 	color: black;
-	background-color: pink;
+	background-color: #FFB6C1;
 
 }
 #beef{
-	background-color: red;
+	background-color: #8B0000;
 	color: white;
 	border-color: black;
 }
 #sushi{
 		color: black;
-		background-color: yellow;
+		background-color: #FFEBCD;
 
 }
 
